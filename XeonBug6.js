@@ -1245,7 +1245,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'buypremium':
             case 'buyprem':
             case 'premium': {
-                let teks = `Hi ${pushname}\n Premium is free! \n Put Your number in Premium json in file! \n do not know check video on Youtube channel Tech God`
+                let teks = `Hi ${pushname}\n Premium is free! \n Put Your number in Premium json in file! \n do not know check video on Youtube channel Deaethgun635`
                 await XeonBotInc.sendMessage(m.chat, {
                     text: teks,
                     contextInfo: {
@@ -2285,125 +2285,143 @@ break
             case 'alive':
             case 'bot':
             case 'allmenu':
-                let xeonmenuoh = `┌───〈 *DEATH RAPHAEL-BUG* 〉───◆
-┴│▸Hello Dear ${pushname}
-⬡│▸${xeonytimewisher}
-⬡│▸ DATE: LOOK CALENDER
-⬡│▸ PLATFORM: LINUX
-┬│▸TIME: YOU HAVE A PHONE
-│╰────────────···▸▸
-└───────────────···▸
-┌──>>>
-│╭─────────────···▸>                ┴ 
- ⬡│▸ *Do not forget to subscribe* 
- ┬│▸https://www.youtube.com/@Darklimule
-│╰────────────···▸▸
-└───────────────···▸
+                let xeonmenuoh =`╭──✪「DEATH RAPHAEL-BUG」✪
+├ User: ${pushname}
+├ Greeting:${xeonytimewisher}
+├ DATE: look your calendar 
+├ PLATFORM: LINUX
+├ TIME: you have a watch 
+╰─┬────────✪
+╭─┴✪「 *YouTube Channel* 」✪
+├ https://www.youtube.com/@Darklimule
+╰──────────✪
 
-─〈 *Android Bug ⚠️* 〉─◆
-> xandroid 
-> xandroid2
-> systemuicrash
-> xsysui
-─〈 *ios bug 🐉* 〉─◆
-> xios
-> xios2
-──〈 *Group bug 👾* 〉─◆
-> xgc
-
-─〈 *Owner menu 🔐* 〉─◆
-> getsession
-> deletesession
-> pp
-> join
-> shutdown  
-> restart
-> autoread *[option]*
-> autotyping *[option]*
-> autorecording *[option]*
-> autorecordtyp *[option]*
-> autobio *[option]*
-> autoswview *[option]*
-> mode *[option]*
-> block
-> unblock 
-> backup
-> getcase
-> addowner
-> delowner
-> bcgc
-
-─〈 *Group Menu 👪* 〉─◆
-> closetime
-> opentime
-> kick
-> add
-> promote
-> demote
-> setdesc
-> setppgc
-> tagall
-> hidetag
-> totag
-> group *[option]*
-> editinfo
-> linkgc
-> revoke
-> listonline
-
-─〈 *Main menu ❤️* 〉─◆
-> menu
-> buypremium to 237698581946
-> runtime
-> script
-> donate
-> owner
-> limule
-
-─〈 *Convert menu 🔄* 〉─◆
-> sticker
-> smeme
-> take
-> toimage
-> tovideo
-> toaudio
-> tomp3
-> tovn
-> togif
-> tourl
-> toqr
-> toviewonce
-> fliptext
-> emojimix
-
-─〈 *Auto BGM,STICKER,PIC,VIDEO reply 📢* 〉─◆
-> addvideo
-> addimage
-> addsticker
-> addvn
-> addzip
-> addapk
-> addpdf
-> delvideo
-> delimage
-> delsticker
-> delvn
-> delzip
-> delapk
-> delpdf
-> listvideo
-> listimage
-> liststicker
-> listvn
-> listzip
-> listapk
-> listpdf
-
-─〈 *Download menu 📥* 〉─◆
-> play
-> ytmp3
-> ytmp4
-> sound1 - sound161`
+╭────✪ *Android Bug ⚠️* *✪⊷*
+╏✺╭─────────────✪
+┋⍟┃ xandroid 
+┋⍟┃ xandroid2
+┋⍟┃ systemuicrash
+┋⍟┃ xsysui
+┋⍟╰───────────────
+╰═════════════════✪
+╭────✪ *Ios Bug 🐉* *✪⊷*
+╏✺╭─────────────✪
+┋⍟┃ xios
+┋⍟┃ xios2
+┋⍟╰───────────────
+╰═════════════════✪
+╭────✪ *Group Bug 👾* *✪⊷*
+╏✺╭─────────────✪
+┋⍟┃ xgc
+┋⍟╰───────────────
+╰═════════════════✪
+╭────✪ *Owner Menu👑* *✪⊷*
+╏✺╭─────────────✪
+┋⍟┃ getsession
+┋⍟┃ deletesession
+┋⍟┃ pp
+┋⍟┃ join
+┋⍟┃ shutdown  
+┋⍟┃ restart
+┋⍟┃ autoread *[option]*
+┋⍟┃ autotyping *[option]*
+┋⍟┃ autorecording *[option]*
+┋⍟┃ autorecordtyp *[option]*
+┋⍟┃ autobio *[option]*
+┋⍟┃ autoswview *[option]*
+┋⍟┃ mode *[option]*
+┋⍟┃ block
+┋⍟┃ unblock 
+┋⍟┃ backup
+┋⍟┃ getcase
+┋⍟┃ addowner
+┋⍟┃ delowner
+┋⍟┃ bcgc
+┋⍟╰───────────────
+╰═════════════════✪
+╭────✪ *Group Menu👥* *✪⊷*
+╏✺╭─────────────✪
+┋⍟┃ closetime
+┋⍟┃ opentime
+┋⍟┃ kick
+┋⍟┃ add
+┋⍟┃ promote
+┋⍟┃ demote
+┋⍟┃ setdesc
+┋⍟┃ setppgc
+┋⍟┃ tagall
+┋⍟┃ hidetag
+┋⍟┃ totag
+┋⍟┃ group *[option]*
+┋⍟┃ editinfo
+┋⍟┃ linkgc
+┋⍟┃ revoke
+┋⍟┃ listonline
+┋⍟╰───────────────
+╰═════════════════✪
+╭────✪ *Main Menu❤️* *✪⊷*
+╏✺╭─────────────✪
+┋⍟┃ menu
+┋⍟┃ buypremium
+┋⍟┃ runtime
+┋⍟┃ script
+┋⍟┃ donate
+┋⍟┃ owner
+┋⍟┃ limule
+┋⍟╰───────────────
+╰═════════════════✪
+╭────✪ *Convert Menu🔃* *✪⊷*
+╏✺╭─────────────✪
+┋⍟┃ sticker
+┋⍟┃ smeme
+┋⍟┃ take
+┋⍟┃ toimage
+┋⍟┃ tovideo
+┋⍟┃ toaudio
+┋⍟┃ tomp3
+┋⍟┃ tovn
+┋⍟┃ togif
+┋⍟┃ tourl
+┋⍟┃ toqr
+┋⍟┃ toviewonce
+┋⍟┃ fliptext
+┋⍟┃ emojimix
+┋⍟╰───────────────
+╰═════════════════✪
+╭────✪ *Auto/s/reply Menu🌹* *✪⊷*
+╏✺╭─────────────✪
+┋⍟┃ addvideo
+┋⍟┃ addimage
+┋⍟┃ addsticker
+┋⍟┃ addvn
+┋⍟┃ addzip
+┋⍟┃ addapk
+┋⍟┃ addpdf
+┋⍟┃ delvideo
+┋⍟┃ delimage
+┋⍟┃ delsticker
+┋⍟┃ delvn
+┋⍟┃ delzip
+┋⍟┃ delapk
+┋⍟┃ delpdf
+┋⍟┃ listvideo
+┋⍟┃ listimage
+┋⍟┃ liststicker
+┋⍟┃ listvn
+┋⍟┃ listzip
+┋⍟┃ listapk
+┋⍟┃ listpdf
+┋⍟╰───────────────
+╰═════════════════✪
+╭────✪ *Download Menu📂* *✪⊷*
+╏✺╭─────────────✪
+┋⍟┃ play
+┋⍟┃ ytmp3
+┋⍟┃ ytmp4
+┋⍟┃ sound1 - sound161
+┋⍟╰───────────────
+╰═════════════════✪
+> 2025© Limule Solitarus`
 if (typemenu === 'v1') {
                     XeonBotInc.sendMessage(m.chat, {
                         text: xeonmenuoh,
